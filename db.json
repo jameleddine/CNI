@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "email": "mejri.jameleddine@gmail.com",
+      "phone": "25252",
+      "date_naiss": "2020-02-14",
+      "nationalite": "France",
+      "region": "Paris",
+      "identite": "2542578545",
+      "id": 3
+    },
+    {
+      "email": "mejri.jameleddine@gmail.com",
+      "phone": "45454",
+      "date_naiss": "2020-02-13",
+      "nationalite": "France",
+      "region": "Lyon",
+      "identite": "45454545",
+      "id": 4
+    },
+    {
+      "email": "jamel14@libe.fe",
+      "phone": "ljlsjd",
+      "date_naiss": "2021-02-02",
+      "nationalite": "Tunisie",
+      "region": "Nabeul",
+      "identite": "54584",
+      "id": 5
+    },
+    {
+      "email": "تاعيلتسه",
+      "phone": "2541",
+      "date_naiss": "2021-02-02",
+      "nationalite": "France",
+      "region": "Paris",
+      "identite": "21454215",
+      "id": 6
+    },
+    {
+      "email": "ezeze",
+      "phone": "zeezeze",
+      "date_naiss": "2020-02-11",
+      "nationalite": "France",
+      "identite": "zezeze",
+      "id": 7
+    },
+    {
+      "email": "ezeze",
+      "phone": "zeezeze",
+      "date_naiss": "2020-02-11",
+      "nationalite": "France",
+      "identite": "zezeze",
+      "id": 8
+    },
+    {
+      "email": "ezeze",
+      "phone": "zeezeze",
+      "date_naiss": "2020-02-11",
+      "nationalite": "France",
+      "identite": "zezeze",
+      "id": 9
+    },
+    {
+      "email": "sofien@gmail.com",
+      "phone": "251",
+      "date_naiss": "2020-02-12",
+      "nationalite": "Espagne",
+      "region": "Barcelone",
+      "identite": "qsqsqs",
+      "id": 10
+    }
+  ]
+}
